@@ -4,4 +4,6 @@ if user_input == 'y'
 {
     print("alright ")
 }
+else:
+    print("alright, see you later! ")
 print(user_input)
